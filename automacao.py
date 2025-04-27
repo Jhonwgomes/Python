@@ -1,6 +1,6 @@
 #É necessário instalar as bibliotecas para conseguir importa-las, execute no terminal os comandos de cada biblioteca
 import pyautogui #para instalar a pyautogui utilize o comando "pip install pyautogui"
-import time #para instalar a biblioteca time utilize o comando "pip install time"
+import time #a biblioteca time já vem por padrão no python
 import pandas as pd # para instalar a biblioteca pandas utilize o comando "pip install pandas"
 
 pyautogui.PAUSE = 0.5
